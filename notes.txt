@@ -1,2 +1,3 @@
 \d - to describe a database
 \dt - to describe tables in a database.
+INSERT INTO table_name("data","data",...) VALUES("value","value",....);
