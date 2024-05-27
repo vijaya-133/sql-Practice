@@ -1,1 +1,2 @@
-\d - to describe tables and relationships in a database
+\d - to describe a database
+\dt - to describe tables in a database.
