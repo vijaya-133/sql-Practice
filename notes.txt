@@ -4,3 +4,4 @@ INSERT INTO table_name("data","data",...) VALUES("value","value",....);
 SELECT * FROM table_name;
 SELECT COUNT(id) FROM table_name;
 UPDATE table_name set column_name = 'data' WHERE column_name = 'value';
+DELETE FROM table_name WHERE column_name = 'primary key';
