@@ -1,0 +1,1 @@
+\d - to describe tables and relationships in a database
